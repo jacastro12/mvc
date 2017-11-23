@@ -16,6 +16,7 @@ public class ModeloVistaControlador {
      */
     public static void main(String[] args) {
         // d code application logic here
+        System.out.println("dasdadsad");
     }
     
 }
